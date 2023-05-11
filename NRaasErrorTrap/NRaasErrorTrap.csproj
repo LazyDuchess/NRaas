@@ -856,6 +856,7 @@
     <Compile Include="ErrorTrapSpace\Checks\CheckRoleManagerTask.cs" />
     <Compile Include="ErrorTrapSpace\Checks\CheckSim.cs" />
     <Compile Include="ErrorTrapSpace\Checks\CheckUrnstone.cs" />
+    <Compile Include="ErrorTrapSpace\Hooks\SimulatorHooks.cs" />
     <Compile Include="ErrorTrapSpace\ObjectLookup.cs" />
     <Compile Include="ErrorTrapSpace\GameObjectReference.cs" />
     <Compile Include="ErrorTrapSpace\IgnoreList.cs" />
